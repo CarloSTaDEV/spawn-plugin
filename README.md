@@ -1,1 +1,1 @@
-# spawn-plugin
+The spawn plugin source code.
