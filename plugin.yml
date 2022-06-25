@@ -1,0 +1,9 @@
+name: Spawn
+version: '${project.version}'
+main: spawn.spawn.Spawn
+authors: [ CarlosTavria ]
+description: The spawn command plugin.
+
+commands:
+  sp:
+    description: The spawn management command.
